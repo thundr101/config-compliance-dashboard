@@ -3,6 +3,14 @@
 Aggregates AWS Config compliance data across multiple accounts into a single
 dashboard, showing non-compliant resource trends over time per rule/account.
 
+## Screenshots
+
+### Dark Mode
+![Dark Mode](images/dashboard_dark.png)
+
+### Light Mode
+![Light Mode](images/dashboard_light.png)
+
 ## Why
 
 `GetComplianceSummaryByConfigRule` is a per-account, per-call API. For an
