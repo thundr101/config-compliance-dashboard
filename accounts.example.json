@@ -1,0 +1,14 @@
+[
+  {
+    "accountId": "111111111111",
+    "accountName": "prod-payments",
+    "roleArn": "arn:aws:iam::111111111111:role/ConfigComplianceDashboardReadRole",
+    "region": "us-east-1"
+  },
+  {
+    "accountId": "222222222222",
+    "accountName": "prod-search",
+    "roleArn": "arn:aws:iam::222222222222:role/ConfigComplianceDashboardReadRole",
+    "region": "us-east-1"
+  }
+]
