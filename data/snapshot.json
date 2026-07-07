@@ -1,0 +1,1397 @@
+[
+  {
+    "generatedAt": "2026-06-07T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 77,
+        "nonCompliantCount": 33,
+        "collectedAt": "2026-06-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 94,
+        "nonCompliantCount": 26,
+        "collectedAt": "2026-06-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 112,
+        "nonCompliantCount": 18,
+        "collectedAt": "2026-06-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 128,
+        "nonCompliantCount": 12,
+        "collectedAt": "2026-06-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 142,
+        "nonCompliantCount": 8,
+        "collectedAt": "2026-06-07T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 553,
+      "nonCompliant": 97,
+      "complianceRatePct": 85.1
+    }
+  },
+  {
+    "generatedAt": "2026-06-08T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 80,
+        "nonCompliantCount": 31,
+        "collectedAt": "2026-06-08T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 94,
+        "nonCompliantCount": 27,
+        "collectedAt": "2026-06-08T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 111,
+        "nonCompliantCount": 20,
+        "collectedAt": "2026-06-08T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 129,
+        "nonCompliantCount": 12,
+        "collectedAt": "2026-06-08T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 145,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-06-08T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 559,
+      "nonCompliant": 96,
+      "complianceRatePct": 85.3
+    }
+  },
+  {
+    "generatedAt": "2026-06-09T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 85,
+        "nonCompliantCount": 27,
+        "collectedAt": "2026-06-09T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 97,
+        "nonCompliantCount": 25,
+        "collectedAt": "2026-06-09T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 111,
+        "nonCompliantCount": 21,
+        "collectedAt": "2026-06-09T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 128,
+        "nonCompliantCount": 14,
+        "collectedAt": "2026-06-09T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 146,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-06-09T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 567,
+      "nonCompliant": 93,
+      "complianceRatePct": 85.9
+    }
+  },
+  {
+    "generatedAt": "2026-06-10T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 89,
+        "nonCompliantCount": 25,
+        "collectedAt": "2026-06-10T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 102,
+        "nonCompliantCount": 22,
+        "collectedAt": "2026-06-10T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 114,
+        "nonCompliantCount": 20,
+        "collectedAt": "2026-06-10T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 128,
+        "nonCompliantCount": 16,
+        "collectedAt": "2026-06-10T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 145,
+        "nonCompliantCount": 9,
+        "collectedAt": "2026-06-10T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 578,
+      "nonCompliant": 92,
+      "complianceRatePct": 86.3
+    }
+  },
+  {
+    "generatedAt": "2026-06-11T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 90,
+        "nonCompliantCount": 25,
+        "collectedAt": "2026-06-11T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 106,
+        "nonCompliantCount": 19,
+        "collectedAt": "2026-06-11T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 119,
+        "nonCompliantCount": 16,
+        "collectedAt": "2026-06-11T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 131,
+        "nonCompliantCount": 14,
+        "collectedAt": "2026-06-11T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 145,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-11T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 591,
+      "nonCompliant": 84,
+      "complianceRatePct": 87.6
+    }
+  },
+  {
+    "generatedAt": "2026-06-12T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 90,
+        "nonCompliantCount": 26,
+        "collectedAt": "2026-06-12T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 107,
+        "nonCompliantCount": 19,
+        "collectedAt": "2026-06-12T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 123,
+        "nonCompliantCount": 13,
+        "collectedAt": "2026-06-12T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 136,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-12T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 148,
+        "nonCompliantCount": 8,
+        "collectedAt": "2026-06-12T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 604,
+      "nonCompliant": 76,
+      "complianceRatePct": 88.8
+    }
+  },
+  {
+    "generatedAt": "2026-06-13T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 89,
+        "nonCompliantCount": 28,
+        "collectedAt": "2026-06-13T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 107,
+        "nonCompliantCount": 20,
+        "collectedAt": "2026-06-13T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 124,
+        "nonCompliantCount": 13,
+        "collectedAt": "2026-06-13T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 140,
+        "nonCompliantCount": 7,
+        "collectedAt": "2026-06-13T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 153,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-06-13T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 613,
+      "nonCompliant": 72,
+      "complianceRatePct": 89.5
+    }
+  },
+  {
+    "generatedAt": "2026-06-14T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 91,
+        "nonCompliantCount": 27,
+        "collectedAt": "2026-06-14T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 106,
+        "nonCompliantCount": 22,
+        "collectedAt": "2026-06-14T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 124,
+        "nonCompliantCount": 14,
+        "collectedAt": "2026-06-14T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 141,
+        "nonCompliantCount": 7,
+        "collectedAt": "2026-06-14T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 157,
+        "nonCompliantCount": 1,
+        "collectedAt": "2026-06-14T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 619,
+      "nonCompliant": 71,
+      "complianceRatePct": 89.7
+    }
+  },
+  {
+    "generatedAt": "2026-06-15T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 96,
+        "nonCompliantCount": 24,
+        "collectedAt": "2026-06-15T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 108,
+        "nonCompliantCount": 22,
+        "collectedAt": "2026-06-15T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 123,
+        "nonCompliantCount": 17,
+        "collectedAt": "2026-06-15T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 141,
+        "nonCompliantCount": 9,
+        "collectedAt": "2026-06-15T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 158,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-15T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 626,
+      "nonCompliant": 74,
+      "complianceRatePct": 89.4
+    }
+  },
+  {
+    "generatedAt": "2026-06-16T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 101,
+        "nonCompliantCount": 20,
+        "collectedAt": "2026-06-16T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 113,
+        "nonCompliantCount": 18,
+        "collectedAt": "2026-06-16T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 125,
+        "nonCompliantCount": 16,
+        "collectedAt": "2026-06-16T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 140,
+        "nonCompliantCount": 11,
+        "collectedAt": "2026-06-16T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 158,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-06-16T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 637,
+      "nonCompliant": 68,
+      "complianceRatePct": 90.4
+    }
+  },
+  {
+    "generatedAt": "2026-06-17T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 103,
+        "nonCompliantCount": 19,
+        "collectedAt": "2026-06-17T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 118,
+        "nonCompliantCount": 14,
+        "collectedAt": "2026-06-17T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 130,
+        "nonCompliantCount": 12,
+        "collectedAt": "2026-06-17T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 142,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-17T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 157,
+        "nonCompliantCount": 5,
+        "collectedAt": "2026-06-17T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 650,
+      "nonCompliant": 60,
+      "complianceRatePct": 91.5
+    }
+  },
+  {
+    "generatedAt": "2026-06-18T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 102,
+        "nonCompliantCount": 21,
+        "collectedAt": "2026-06-18T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 120,
+        "nonCompliantCount": 13,
+        "collectedAt": "2026-06-18T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 135,
+        "nonCompliantCount": 8,
+        "collectedAt": "2026-06-18T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 147,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-06-18T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 159,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-06-18T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 663,
+      "nonCompliant": 52,
+      "complianceRatePct": 92.7
+    }
+  },
+  {
+    "generatedAt": "2026-06-19T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 102,
+        "nonCompliantCount": 22,
+        "collectedAt": "2026-06-19T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 119,
+        "nonCompliantCount": 15,
+        "collectedAt": "2026-06-19T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 137,
+        "nonCompliantCount": 7,
+        "collectedAt": "2026-06-19T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 152,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-19T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 164,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-19T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 674,
+      "nonCompliant": 46,
+      "complianceRatePct": 93.6
+    }
+  },
+  {
+    "generatedAt": "2026-06-20T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 103,
+        "nonCompliantCount": 23,
+        "collectedAt": "2026-06-20T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 119,
+        "nonCompliantCount": 17,
+        "collectedAt": "2026-06-20T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 136,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-20T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 154,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-20T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 169,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-20T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 681,
+      "nonCompliant": 52,
+      "complianceRatePct": 92.9
+    }
+  },
+  {
+    "generatedAt": "2026-06-21T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 107,
+        "nonCompliantCount": 20,
+        "collectedAt": "2026-06-21T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 120,
+        "nonCompliantCount": 17,
+        "collectedAt": "2026-06-21T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 136,
+        "nonCompliantCount": 11,
+        "collectedAt": "2026-06-21T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 153,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-06-21T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 171,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-21T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 687,
+      "nonCompliant": 52,
+      "complianceRatePct": 93
+    }
+  },
+  {
+    "generatedAt": "2026-06-22T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 112,
+        "nonCompliantCount": 16,
+        "collectedAt": "2026-06-22T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 124,
+        "nonCompliantCount": 14,
+        "collectedAt": "2026-06-22T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 137,
+        "nonCompliantCount": 11,
+        "collectedAt": "2026-06-22T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 153,
+        "nonCompliantCount": 5,
+        "collectedAt": "2026-06-22T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 170,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-22T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 696,
+      "nonCompliant": 46,
+      "complianceRatePct": 93.8
+    }
+  },
+  {
+    "generatedAt": "2026-06-23T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 115,
+        "nonCompliantCount": 14,
+        "collectedAt": "2026-06-23T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 129,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-23T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 141,
+        "nonCompliantCount": 8,
+        "collectedAt": "2026-06-23T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 154,
+        "nonCompliantCount": 5,
+        "collectedAt": "2026-06-23T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 170,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-23T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 709,
+      "nonCompliant": 39,
+      "complianceRatePct": 94.8
+    }
+  },
+  {
+    "generatedAt": "2026-06-24T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 115,
+        "nonCompliantCount": 15,
+        "collectedAt": "2026-06-24T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 132,
+        "nonCompliantCount": 8,
+        "collectedAt": "2026-06-24T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 146,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-06-24T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 171,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-06-24T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 158,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-24T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 722,
+      "nonCompliant": 32,
+      "complianceRatePct": 95.8
+    }
+  },
+  {
+    "generatedAt": "2026-06-25T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 114,
+        "nonCompliantCount": 18,
+        "collectedAt": "2026-06-25T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 132,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-25T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 149,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-06-25T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 175,
+        "nonCompliantCount": 1,
+        "collectedAt": "2026-06-25T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 163,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-25T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 733,
+      "nonCompliant": 32,
+      "complianceRatePct": 95.8
+    }
+  },
+  {
+    "generatedAt": "2026-06-26T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 115,
+        "nonCompliantCount": 18,
+        "collectedAt": "2026-06-26T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 131,
+        "nonCompliantCount": 12,
+        "collectedAt": "2026-06-26T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 149,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-06-26T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 166,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-26T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 180,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-26T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 741,
+      "nonCompliant": 34,
+      "complianceRatePct": 95.6
+    }
+  },
+  {
+    "generatedAt": "2026-06-27T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 118,
+        "nonCompliantCount": 16,
+        "collectedAt": "2026-06-27T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 132,
+        "nonCompliantCount": 12,
+        "collectedAt": "2026-06-27T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 148,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-06-27T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 166,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-27T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 183,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-27T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 747,
+      "nonCompliant": 34,
+      "complianceRatePct": 95.6
+    }
+  },
+  {
+    "generatedAt": "2026-06-28T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 123,
+        "nonCompliantCount": 12,
+        "collectedAt": "2026-06-28T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 135,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-28T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 149,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-06-28T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 165,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-28T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 183,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-06-28T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 755,
+      "nonCompliant": 30,
+      "complianceRatePct": 96.2
+    }
+  },
+  {
+    "generatedAt": "2026-06-29T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 127,
+        "nonCompliantCount": 9,
+        "collectedAt": "2026-06-29T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 140,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-06-29T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 152,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-06-29T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 166,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-06-29T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 182,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-29T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 767,
+      "nonCompliant": 24,
+      "complianceRatePct": 97
+    }
+  },
+  {
+    "generatedAt": "2026-06-30T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 128,
+        "nonCompliantCount": 10,
+        "collectedAt": "2026-06-30T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 144,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-06-30T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 183,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-06-30T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 169,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-06-30T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 157,
+        "nonCompliantCount": 1,
+        "collectedAt": "2026-06-30T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 781,
+      "nonCompliant": 20,
+      "complianceRatePct": 97.5
+    }
+  },
+  {
+    "generatedAt": "2026-07-01T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 127,
+        "nonCompliantCount": 12,
+        "collectedAt": "2026-07-01T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 145,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-07-01T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 186,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-07-01T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 161,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-01T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 174,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-01T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 793,
+      "nonCompliant": 18,
+      "complianceRatePct": 97.8
+    }
+  },
+  {
+    "generatedAt": "2026-07-02T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 127,
+        "nonCompliantCount": 13,
+        "collectedAt": "2026-07-02T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 144,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-07-02T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 162,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-02T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 178,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-02T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 191,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-02T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 802,
+      "nonCompliant": 19,
+      "complianceRatePct": 97.7
+    }
+  },
+  {
+    "generatedAt": "2026-07-03T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 130,
+        "nonCompliantCount": 11,
+        "collectedAt": "2026-07-03T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 144,
+        "nonCompliantCount": 7,
+        "collectedAt": "2026-07-03T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 161,
+        "nonCompliantCount": 1,
+        "collectedAt": "2026-07-03T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 179,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-03T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 195,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-03T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 809,
+      "nonCompliant": 19,
+      "complianceRatePct": 97.7
+    }
+  },
+  {
+    "generatedAt": "2026-07-04T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 134,
+        "nonCompliantCount": 8,
+        "collectedAt": "2026-07-04T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 147,
+        "nonCompliantCount": 5,
+        "collectedAt": "2026-07-04T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 161,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-07-04T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 178,
+        "nonCompliantCount": 1,
+        "collectedAt": "2026-07-04T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 196,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-04T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 816,
+      "nonCompliant": 17,
+      "complianceRatePct": 98
+    }
+  },
+  {
+    "generatedAt": "2026-07-05T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 139,
+        "nonCompliantCount": 5,
+        "collectedAt": "2026-07-05T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 151,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-07-05T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 178,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-07-05T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 164,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-07-05T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 195,
+        "nonCompliantCount": 1,
+        "collectedAt": "2026-07-05T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 827,
+      "nonCompliant": 14,
+      "complianceRatePct": 98.3
+    }
+  },
+  {
+    "generatedAt": "2026-07-06T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 141,
+        "nonCompliantCount": 4,
+        "collectedAt": "2026-07-06T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 195,
+        "nonCompliantCount": 3,
+        "collectedAt": "2026-07-06T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 181,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-07-06T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 156,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-06T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 168,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-06T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 841,
+      "nonCompliant": 9,
+      "complianceRatePct": 98.9
+    }
+  },
+  {
+    "generatedAt": "2026-07-07T04:53:07.351Z",
+    "accounts": [
+      {
+        "accountId": "111122223333",
+        "accountName": "production-core",
+        "compliantCount": 140,
+        "nonCompliantCount": 6,
+        "collectedAt": "2026-07-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "987654321098",
+        "accountName": "billing-finance",
+        "compliantCount": 198,
+        "nonCompliantCount": 2,
+        "collectedAt": "2026-07-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "444455556666",
+        "accountName": "staging-environment",
+        "compliantCount": 158,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "777788889999",
+        "accountName": "development-sandbox",
+        "compliantCount": 173,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-07T04:53:07.351Z"
+      },
+      {
+        "accountId": "123456789012",
+        "accountName": "security-audit",
+        "compliantCount": 185,
+        "nonCompliantCount": 0,
+        "collectedAt": "2026-07-07T04:53:07.351Z"
+      }
+    ],
+    "totals": {
+      "compliant": 854,
+      "nonCompliant": 8,
+      "complianceRatePct": 99.1
+    }
+  }
+]
